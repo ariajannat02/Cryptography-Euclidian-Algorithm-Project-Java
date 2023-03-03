@@ -2,6 +2,7 @@
 //CUS 1185 Cryptography
 // November 22, 2022
 // EA/ EEA Assignment
+//Euclidian Algorithm and Extended Euclidian Algorithm
 
 
 import java.util.Scanner;
